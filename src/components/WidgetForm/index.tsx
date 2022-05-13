@@ -47,7 +47,11 @@ export function WidgetForm() {
 
       <footer className="text-xs text-neutral-400">
         Feito com ♥ pelo{" "}
-        <a className="underline underline-offset-2" href="https://youtube.com">
+        <a
+          className="underline underline-offset-2"
+          href="https://github.com/oLeoCastro"
+          target="_blank"
+        >
           Leozin :3
         </a>
       </footer>
